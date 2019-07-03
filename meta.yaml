@@ -1,0 +1,4 @@
+name: samtools markdup
+description: Mark duplicates using samtools.
+authors:
+  - Bastien Job
